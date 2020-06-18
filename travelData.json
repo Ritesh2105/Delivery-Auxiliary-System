@@ -1,0 +1,26 @@
+{
+    "origin": "London, ON, Canada",
+    "destination": "Toronto, ON, Canada",
+    "each segment info": [
+        {
+            "distance": {
+                "text": "192 km",
+                "value": 192330
+            },
+            "duration": {
+                "text": "2 hours 3 mins",
+                "value": 7381
+            },
+            "end_address": "Toronto, ON, Canada",
+            "end_location": {
+                "lat": 43.6533096,
+                "lng": -79.3827656
+            },
+            "start_address": "London, ON, Canada",
+            "start_location": {
+                "lat": 42.98491629999999,
+                "lng": -81.24527309999999
+            }
+        }
+    ]
+}
